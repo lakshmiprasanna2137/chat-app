@@ -16,3 +16,5 @@ A Live Chat App is a real-time messaging application that allows users to commun
 
 *OUTPUT* :
 <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/41f27043-9b42-40cd-9df7-3b63ff7ff353" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/48262288-8787-415f-8154-dbe0039a57dc" />
